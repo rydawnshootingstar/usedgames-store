@@ -17,6 +17,9 @@ const BodyWrapper = styled.div`
   margin: 0;
   padding: 0;
   display: block;
+  font-family: "Oswald";
+  letter-spacing: 0.1px;
+  line-height: 1.7rem;
 `
 
 const DefaultLayout = props => (

@@ -19,7 +19,7 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         custom: {
-          families: ["Merriweather"],
+          families: ["Oswald", "PassionOne"],
           urls: ["/fonts/fonts.css"],
         },
       },
