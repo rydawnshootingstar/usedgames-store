@@ -3,7 +3,8 @@ import styled from "styled-components"
 import Head from "./Head"
 
 const HeaderWrapper = styled.div`
-  background: grey;
+  background: rgb(241, 55, 8);
+  color: rgb(250, 250, 250);
   min-height: 15vh;
   max-height: 160px;
   box-shadow: rgba(0, 0, 0, 0.36) 0px 8px 10px 0px;
